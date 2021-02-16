@@ -1,0 +1,4 @@
+# NODE.JS
+# -------------------------------------------------------------
+# Ignore npm modules from host
+**/node_modules/**
